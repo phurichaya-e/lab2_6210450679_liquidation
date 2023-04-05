@@ -1,8 +1,8 @@
 ### Phurichaya Eamsumang 6210450679
 
 ### Liquidation
-2. Liquidate `0x59CE4a2AC5bC3f5F225439B2993b86B42f6d3e9F` with 2000, 5000, and 10000 USDT.
-3. Liquidate `0x63f6037d3e9d51ad865056BF7792029803b6eEfD` with 8520 USDC.
+2. Liquidate account `0x59CE4a2AC5bC3f5F225439B2993b86B42f6d3e9F` with 2000, 5000, and 10000 USDT.
+3. Liquidate account `0x63f6037d3e9d51ad865056BF7792029803b6eEfD`
 
 <br />
 
